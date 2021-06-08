@@ -33,7 +33,7 @@ NOTE :
 
 ## Dataset
 We provide yelp_gat(yelp) dataset.
-  * .\dataset\yelp_gat.rating
+  * .\dataset\yelp_gat.rating and yelp_gat.uu
   *  Each line is a user with her/his positive interactions with items: userID \ itemID \ ratings .
   *  Each user has more than 10 associated actions.
 
