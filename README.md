@@ -48,4 +48,4 @@ The list of available models in EAGCN, along with their paper citations, are sho
 
 | Social Recommender | Paper                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------|
-| EATNN              | C. Chenet al., An efficient adaptive transfer neural network for social-aware recommendation SIGIR 2019.|
+| EATNN              | C. Chen et al., An efficient adaptive transfer neural network for social-aware recommendation SIGIR 2019.|
