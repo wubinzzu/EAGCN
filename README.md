@@ -1,5 +1,5 @@
 # EAGCN
-This is our Tensorflow implementation for our EAGCN 2021 paper and a part of baselines:
+This is our Tensorflow implementation for our EAGCN 2022 paper and a part of baselines:
 
 >Bin Wu, Lihong Zhong, Lina Yao, Yangdong Ye. EAGCN: An Efficient Adaptive Graph Convolutional Network for Item Recommendation in Social Internet of Things, IEEE Internet of Things Journal, Accept, 2022.
 
